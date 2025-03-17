@@ -1,2 +1,2 @@
-# Projeto_CNC_Corros-o_de_PCB
+# Projeto_CNC_Corrosao_de_PCB
 Desenvolvimento de uma máquina CNC para corrosão automatica na produção de PCB
